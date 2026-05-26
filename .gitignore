@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# v0.dev sandbox
+/ss/
+
+# Windows NTFS alternate data streams
+*:Zone.Identifier
